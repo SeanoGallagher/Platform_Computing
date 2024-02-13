@@ -29,5 +29,5 @@ The following **bonus** features are implemented:
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li>**NO ADDITIONAL NOTES**</li>
+  <li> **NO ADDITIONAL NOTES** </li>
 </ul>
