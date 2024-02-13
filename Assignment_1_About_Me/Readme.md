@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
+<img src="../Images/PC_Assignment_1.PNG" title='Assignment 1 Screenshot' width='' alt='Assignment 1 Screenshot' />
 
 
 ## Notes:
